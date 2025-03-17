@@ -209,3 +209,7 @@ padding-top: 8px;
     transform: scale(1);
     opacity: 1;
 }
+
+.project__img {
+    width: 100%;
+}
