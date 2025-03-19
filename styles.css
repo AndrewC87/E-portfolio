@@ -253,7 +253,7 @@ padding-top: 8px;
     filter: blur(5px);
 }
 
-.project:hover .project__descrition {
+.project:hover .project__description {
     opacity: 1;
     transform: translateY(-50%);
 }
@@ -298,6 +298,18 @@ padding-top: 8px;
 
 footer {
     background-color: #242424;
+}
+
+.footer__logo {
+    margin-bottom: 20px;
+}
+
+.footer__social--list {
+    width: 100%;
+    max-width: 501px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 24px;
 }
 
 .footer__row {
